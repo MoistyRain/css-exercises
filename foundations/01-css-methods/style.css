@@ -1,0 +1,11 @@
+/* Linking html file */
+
+/* Modifies the style of the div class */
+
+div {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
